@@ -218,8 +218,7 @@ CREATE TABLE 'points' (
     'County' text NOT NULL,
     'Latitude' char(6) NOT NULL,
     'Longitude' char(6) NOT NULL,
-    ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-)
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `points`
