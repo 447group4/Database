@@ -214,17 +214,17 @@ COMMIT;
 -- Table structure for 'points'
 --
 
-CREATE TABLE 'points' (
-    'County' text NOT NULL,
-    'Latitude' char(6) NOT NULL,
-    'Longitude' char(6) NOT NULL,
+CREATE TABLE `points` (
+    `County` text NOT NULL,
+    `Latitude` char(6) NOT NULL,
+    `Longitude` char(6) NOT NULL,
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `points`
 --
 
-INSERT INTO 'points' ('County', 'Latitude', 'Longitude') VALUES
+INSERT INTO `points` (`County`, `Latitude`, `Longitude`) VALUES
 ('Allegany', '39.6255', '78.6115'),
 ('Anne Arundel', '38.9530', '76.5488'),
 ('Baltimore City', '39.2904', '76.6122'),
