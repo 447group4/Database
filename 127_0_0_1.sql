@@ -220,6 +220,7 @@ CREATE TABLE 'points' (
     'Longitude' char(6) NOT NULL,
     ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 )
+
 --
 -- Dumping data for table `points`
 --
