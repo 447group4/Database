@@ -226,17 +226,17 @@ CREATE TABLE 'points' (
 
 INSERT INTO 'points' ('County', 'Latitude', 'Longitude') VALUES
 ('Allegany', '39.6255', '78.6115'),
-('Anne Arundel', '38.9530', '76.5488')
-('Baltimore City', '39.2904', '76.6122')
-('Baltimore County', '39.2904', '76.6122')
-('Calvert County', '38.4950', '76.5026')
-('Caroline County','38.9105', '75.8534')
-('Carroll County', '39.5423', '77.0564')
-('Cecil County', '39.5739', '75.9463')
-('Charles County', '38.5222', '77.1025')
-('Dorchester County', '38.4153', '76.1784')
-('Frederick County', '39.3845', '77.4702')
-('Garrett County', '39.5681', '79.2902')
+('Anne Arundel', '38.9530', '76.5488'),
+('Baltimore City', '39.2904', '76.6122'),
+('Baltimore County', '39.2904', '76.6122'),
+('Calvert County', '38.4950', '76.5026'),
+('Caroline County','38.9105', '75.8534'),
+('Carroll County', '39.5423', '77.0564'),
+('Cecil County', '39.5739', '75.9463'),
+('Charles County', '38.5222', '77.1025'),
+('Dorchester County', '38.4153', '76.1784'),
+('Frederick County', '39.3845', '77.4702'),
+('Garrett County', '39.5681', '79.2902'),
 
 COMMIT;
 
