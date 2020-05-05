@@ -2,9 +2,9 @@
 ## Maryland DB
 
 **Maryland_DB.sql**: 
-
-Contains the population denisty for all counties in Maryland, and groups the population into the 8 Congressional districts. 
-Contains the latitude/longitude points for all counties in Maryland, and coordinate points for the border of Maryland.
+Contains:
+- Population denisty for all counties in Maryland, and groups the population into the 8 Congressional districts. 
+- Latitude/longitude points for all counties in Maryland, and coordinate points for the border of Maryland.
 
 **Maryland_Counties_Population.sql**: 
 
