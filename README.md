@@ -8,7 +8,7 @@ Contains:
 
 **Maryland_Counties_Population.sql**: 
 Contains:
-- ONLY population denisty for all counties in Maryland, and groups the population into the 8 Congressional districts
+- ONLY population denisty for all counties in Maryland, and groups the population into the 8 Congressional districts.
 
 **Maryland_Points.sql**: 
 Contains:
