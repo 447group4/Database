@@ -213,7 +213,6 @@ INSERT INTO `district 8` (`County`, `Population`) VALUES
 ('Montgomery', 503296),
 ('District 8 Subtotal', 721528);
 
-COMMIT;
 -- --------------------------------------------------------
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
