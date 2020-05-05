@@ -7,4 +7,4 @@
 
 **Maryland_Points.sql**: ONLY contains latitude/longitude points for all counties in Maryland, and coordinate points for the border of Maryland.
 
-## **California DB**
+## California DB
