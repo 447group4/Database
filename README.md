@@ -11,3 +11,19 @@ SOURCES:
 - https://data.imap.maryland.gov/datasets/79b8acd97e3d4cc0ab81244edc2f83e4_0/geoservice
 
 ## California DB
+**CA_CoordinatesN1.sql**
+Contains:
+- Latitude/longitude points for counties in California.
+
+**CA_CoordinatesN2.sql**
+Contains:
+- Latitude/longitude points for counties in California.
+
+**CA_Population_Districts.sql**	
+Contains:
+- Population denisty for all counties in California, and groups the population into the 53 Congressional districts.
+- Total population for all counties in California.
+
+**CA_State_Coordinates.sql**
+Contains:
+- Latitude/longitude points for the border of California.
