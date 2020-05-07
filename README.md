@@ -3,7 +3,7 @@
 
 **Maryland_DB.sql**
 Contains:
-- Population denisty for all counties in Maryland, and groups the population into the 8 Congressional districts. 
+- Population denisty for all counties in Maryland, and groups the counties into the 8 Congressional districts. 
 - Latitude/longitude points for all counties in Maryland, and coordinate points for the border of Maryland.
 
 SOURCES: 
@@ -21,7 +21,7 @@ Contains:
 
 **CA_Population_Districts.sql**	
 Contains:
-- Population denisty for all counties in California, and groups the population into the 53 Congressional districts.
+- Population denisty for all counties in California, and groups the counties into the 53 Congressional districts.
 - Total population for all counties in California.
 
 **CA_State_Coordinates.sql**
