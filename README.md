@@ -27,3 +27,6 @@ Contains:
 **CA_State_Coordinates.sql**
 Contains:
 - Latitude/longitude points for the border of California.
+
+SOURCES:
+- https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-county-boundaries/geoservice?geometry=-135.482%2C31.049%2C-102.523%2C43.258
