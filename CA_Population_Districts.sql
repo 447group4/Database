@@ -18,11 +18,11 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `ca_database`
+-- Database: `ca_database3`
 --
 
-CREATE DATABASE IF NOT EXISTS `ca_database` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `ca_database`;
+CREATE DATABASE IF NOT EXISTS `ca_database3` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `ca_database3`;
 
 -- --------------------------------------------------------
 
