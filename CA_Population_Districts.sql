@@ -151,7 +151,7 @@ CREATE TABLE `district 5` (
 --
 
 INSERT INTO `district 5` (`County`, `Population`) VALUES
-('Contra', Costa 83650),
+('Contra Costa', 83650),
 ('Lake', 5134),
 ('Napa', 141294),
 ('Solano', 146751),
